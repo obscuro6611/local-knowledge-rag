@@ -1,0 +1,6 @@
+{
+  "documents": 3,
+  "chunks": 201,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "last_build_time": "2026-06-30 13:14:02"
+}
